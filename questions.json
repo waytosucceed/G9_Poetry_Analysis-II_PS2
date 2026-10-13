@@ -1,0 +1,39 @@
+{
+  "heading": "G9NL_Poetry Analysis Part II(Writing)",
+  "topics": [
+    {
+      "heading": "Poetry Analysis Part II(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence using the word “Estuary”, which means: The tidal mouth of a large river where it meets the sea, mixing fresh and salt water.",
+          "text_area": "",
+          "answer": ["The fishermen set out at dawn to catch crabs in the wide estuary."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence using the word “Galliard”, which means: A lively Renaissance dance, or the music composed for it.",
+          "text_area": "",
+          "answer": ["The courtiers performed a spirited galliard in the candlelit hall."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence using the word “Quaff”, which means: To drink deeply or heartily, especially an alcoholic beverage.",
+          "text_area": "",
+          "answer": ["He quaffed the ale with gusto after the long day’s ride."]
+        },
+        
+        {
+          "questionNo": 4,
+          "type": "long",
+          "question": "<b>Construct an 8-16 line poem.</b><br>Make sure to use at least 1 symbol (either conventional or contextual)",
+          "text_area": "",
+          "answer": [""]
+        }
+      ]
+    }
+  ]
+}
